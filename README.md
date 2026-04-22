@@ -134,12 +134,14 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 ##  Contact
 
-Your Name – [@yourtwitter](https://twitter.com/yourtwitter) – email@example.com
+Om Gedam
 
-Project Link: [https://github.com/yourusername/automessager](https://github.com/yourusername/automessager)
+GitHub: [https://github.com/itsomg134](https://github.com/itsomg134)
 
----
+Email: [omgedam123098@gmail.com](mailto:omgedam123098@gmail.com)
 
-**⭐ Star this repository if you find it useful!**  
-Report issues or suggest features via [GitHub Issues](https://github.com/yourusername/automessager/issues).
-```
+Twitter (X): [https://twitter.com/omgedam](https://twitter.com/omgedam)
+
+LinkedIn: [https://linkedin.com/in/omgedam](https://linkedin.com/in/omgedam)
+
+Portfolio: [https://ogworks.lovable.app](https://ogworks.lovable.app)
