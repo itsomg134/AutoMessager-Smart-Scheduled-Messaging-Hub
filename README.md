@@ -1,10 +1,8 @@
-Here is a comprehensive `README.md` file for your AutoMessager project, ready to be added to your GitHub repository.
-```markdown
-# 📨 AutoMessager – Smart Scheduled Messaging Hub
+#  AutoMessager – Smart Scheduled Messaging Hub
 
 AutoMessager is a lightweight, client-side web application that lets you **schedule and automate messages** with real-time delivery simulation. Perfect for reminders, follow-ups, or testing message automation workflows — all running directly in your browser with persistent storage.
 
-![AutoMessager Screenshot](https://via.placeholder.com/800x450?text=AutoMessager+Interface+Preview)
+<img width="1886" height="1104" alt="image" src="https://github.com/user-attachments/assets/3f6721e6-2a71-43ee-83b5-1df44639c9c5" />
 
 ## ✨ Features
 
