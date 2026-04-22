@@ -6,14 +6,14 @@ AutoMessager is a lightweight, client-side web application that lets you **sched
 
 ## Features
 
-- ** Schedule Messages** – Set exact date & time for any message delivery.
-- ** Recurring Messages** – Choose hourly, daily, or weekly repeats (automatically reschedules).
-- ** Auto-Delivery Simulation** – Background checker sends messages when scheduled time arrives.
-- ** Persistent Queue** – All schedules saved to `localStorage` (survives page refresh).
-- ** Manage Messages** – Delete individual items or clear entire queue.
-- ** Responsive Design** – Works on desktop, tablet, and mobile devices.
-- ** Real-Time Status** – Visual indicators for pending, sent, or failed messages.
-- ** Live Badge** – Shows that the auto-sender is actively monitoring.
+-  Schedule Messages – Set exact date & time for any message delivery.
+-  Recurring Messages – Choose hourly, daily, or weekly repeats (automatically reschedules).
+-  Auto-Delivery Simulation – Background checker sends messages when scheduled time arrives.
+-  Persistent Queue – All schedules saved to `localStorage` (survives page refresh).
+-  Manage Messages – Delete individual items or clear entire queue.
+-  Responsive Design – Works on desktop, tablet, and mobile devices.
+-  Real-Time Status – Visual indicators for pending, sent, or failed messages.
+-  Live Badge – Shows that the auto-sender is actively monitoring.
 
 
 ### Quick Start
