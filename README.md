@@ -4,20 +4,17 @@ AutoMessager is a lightweight, client-side web application that lets you **sched
 
 <img width="1886" height="1104" alt="image" src="https://github.com/user-attachments/assets/3f6721e6-2a71-43ee-83b5-1df44639c9c5" />
 
-## ✨ Features
+## Features
 
-- **📅 Schedule Messages** – Set exact date & time for any message delivery.
-- **🔄 Recurring Messages** – Choose hourly, daily, or weekly repeats (automatically reschedules).
-- **✅ Auto-Delivery Simulation** – Background checker sends messages when scheduled time arrives.
-- **📋 Persistent Queue** – All schedules saved to `localStorage` (survives page refresh).
-- **🗑 Manage Messages** – Delete individual items or clear entire queue.
-- **📱 Responsive Design** – Works on desktop, tablet, and mobile devices.
-- **⚡ Real-Time Status** – Visual indicators for pending, sent, or failed messages.
-- **🔔 Live Badge** – Shows that the auto-sender is actively monitoring.
+- ** Schedule Messages** – Set exact date & time for any message delivery.
+- ** Recurring Messages** – Choose hourly, daily, or weekly repeats (automatically reschedules).
+- ** Auto-Delivery Simulation** – Background checker sends messages when scheduled time arrives.
+- ** Persistent Queue** – All schedules saved to `localStorage` (survives page refresh).
+- ** Manage Messages** – Delete individual items or clear entire queue.
+- ** Responsive Design** – Works on desktop, tablet, and mobile devices.
+- ** Real-Time Status** – Visual indicators for pending, sent, or failed messages.
+- ** Live Badge** – Shows that the auto-sender is actively monitoring.
 
-## 🚀 Demo
-
-Try it live: [AutoMessager Demo](#) *(replace with your GitHub Pages or live URL)*
 
 ### Quick Start
 1. Enter recipient name/ID, message content, and scheduled time.
