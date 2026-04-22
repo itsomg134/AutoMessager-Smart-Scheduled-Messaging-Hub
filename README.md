@@ -22,14 +22,14 @@ AutoMessager is a lightweight, client-side web application that lets you **sched
 3. Click "Schedule Auto-Message".
 4. The system automatically sends messages when time arrives (checks every 15 seconds).
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **HTML5** – Semantic structure
 - **CSS3** – Modern gradients, glassmorphism effects, responsive grid
 - **JavaScript (ES6)** – Core logic, scheduling, localStorage persistence
 - **No dependencies** – Pure vanilla implementation
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 automessager/
@@ -39,7 +39,7 @@ automessager/
 
 > **Note:** This is a single-file application – just open `index.html` in any modern browser.
 
-## 🔧 Installation & Usage
+##  Installation & Usage
 
 ### Local Setup
 ```bash
@@ -58,7 +58,7 @@ open index.html
 npx live-server
 ```
 
-## 🧠 How It Works
+##  How It Works
 
 1. **Scheduling** – User fills form → new message object added to `schedules` array with target timestamp.
 2. **Persistence** – Every change saved to `localStorage` for data retention.
